@@ -1,0 +1,12 @@
+print ('enter two number')
+ a=int(input())
+ b=int(input())
+ print('before swapping the values')
+ print('a =',a)
+ print('b =',b)
+ c=a 
+a=b
+ b=c 
+print('after swapping the values') 
+print('a=',a)
+print('b=',b)
